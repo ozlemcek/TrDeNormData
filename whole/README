@@ -1,0 +1,47 @@
+----------
+01.06.2020
+----------
+
+* trde_twitter.whole.simp_orig_norm.giza_man.algn	
+
+token-level 1:1, 1:n, n:1 alignments 
+format: <tweet no>\t<orig>\t<norm>
+
+- n:1 representation: 1 is on the first line
+13	Bir	Birçok
+13	çok	
+13	ev	ev
+
+- 1:n representation: n is on a single line, separated by a space
+9	napıyorum	ne yapıyorum
+
+- The first token NULL comes from Giza++ aligments, obsolete at the moment.
+
+
+* trde_twitter.whole.simp_orig_norm.giza_man.algn.lid
+
+gold language IDs assigned to the orig column
+
+format: <tweet no>\t<orig>\t<norm>\t<lid>
+
+NULL lines are removed
+
+
+* trde_twitter.whole.simp_orig_norm.giza_man.algn.pos
+
+gold POS tags assigned to the orig column
+
+format: <tweet no>\t<orig>\t<norm>\t<pos>
+
+NULL lines are removed
+
+-------------------------------------------------------------------------------
+* The original data comes from 
+
+Özlem Çetinoğlu and Çağrı Çöltekin
+Part of Speech Annotation of a Turkish-German Code-Switching Corpus
+In the Proceedings of the 10th Linguistic Annotation Workshop (LAW-X), August 2016, Berlin, Germany.
+
+http://www.aclweb.org/anthology/W/W16/W16-1714.pdf
+
+
