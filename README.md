@@ -9,7 +9,7 @@ There are 12 fine-grained language IDs (see (Çetinoğlu, 2016) below) and 17 PO
 The version used in (van der Goot and Çetinoğlu, 2021) has coarse-grained language IDs and the training set is
 split into 10 folds for cross-validation. This version can be accessed from https://bitbucket.org/robvanderg/csmonoise/.
 
-Only the training set is publicly available at the moment, as the data will be part of the W-NUT 2021 Shared Task [MultiLexNorm: Multilingual Lexical Normalization](http://noisy-text.github.io/2021/multi-lexnorm.html)
+Only the training set is publicly available at the moment, as the data will be part of the W-NUT 2021 Shared Task [MultiLexNorm: Multilingual Lexical Normalization](http://noisy-text.github.io/2021/multi-lexnorm.html).
 Please contact Özlem Çetinoğlu (ozlem.cetinoglu@ims.uni-stuttgart.de) for the test set.
 
 
