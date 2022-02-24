@@ -21,6 +21,7 @@ Rob van der Goot and Özlem Çetinoğlu\
 *Lexical Normalization for Code-switched Data and its Effect on POS Tagging*\
 In the Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), April 2021, Kyiv, Ukraine.
 
+https://aclanthology.org/2021.eacl-main.200.pdf
 
 ```
 @inproceedings{csnorm2021,
